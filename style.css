@@ -197,7 +197,7 @@ iframe {
 
     .conceito {
         height: auto;
-        padding: 20px 0;
+        padding: 20px 50px;
     }
 
     .center-content {
@@ -206,6 +206,7 @@ iframe {
 
     .stop-diario {
         flex-direction: column;
+        padding: 0 50px;
     }
 
     .half {
@@ -234,5 +235,9 @@ iframe {
 
     .sect-content {
         width: 100%;
+    }
+
+    footer p{
+        font-size: 15px;
     }
 }
